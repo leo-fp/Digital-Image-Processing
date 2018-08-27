@@ -8,3 +8,4 @@ histogram.py	灰度直方图
 lineContrast.py 线性变换
 normlize.py	直方图正规化
 scale_rotate.py 放大&旋转
+fastMeanBlur.py 快速均值平滑
