@@ -14,7 +14,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image = cv2.imread(sys.argv[1],cv2.IMREAD_GRAYSCALE)
     else:
-        print "usage:python gaussBlur.py imageFile"
+        print "usage:python Ostu.py imageFile"
     cv2.imshow("image",image)
     otsuThe = 0
     maxval = 255
