@@ -14,7 +14,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         image = cv2.imread(sys.argv[1],cv2.IMREAD_GRAYSCALE)
     else:
-        print "usage:python gaussBlur.py imageFile"
+        print "usage:python erode_dilate.py imageFile"
     cv2.imshow("image",image)
     #创建矩形结构元
     s = cv2.getStructuringElement(cv2.MORPH_RECT,(3,3))
