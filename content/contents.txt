@@ -1,4 +1,7 @@
-#这是代码的索引，方便查找之用
+########################################
+这是代码的索引，方便查找之用
+########################################
+
 1_21		彩色图像的通道分离及合并 
 1_21.py
 CLAHE.py	限制对比度的直方图均衡化
@@ -9,3 +12,6 @@ lineContrast.py 线性变换
 normlize.py	直方图正规化
 scale_rotate.py 放大&旋转
 fastMeanBlur.py 快速均值平滑
+medianBlurImage.py 中值平滑
+Otsu.py 	Otsu阈值处理
+erode_dilate.py 腐蚀&膨胀
