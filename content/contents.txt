@@ -17,3 +17,4 @@ Otsu.py 	Otsu阈值处理
 erode_dilate.py 腐蚀&膨胀
 prewitt.py      prewitt边缘检测
 roberts.py      roberts边缘检测
+canny.py        Canny边缘检测
