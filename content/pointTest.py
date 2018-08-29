@@ -6,6 +6,7 @@ Created on Thu Aug 23 23:23:50 2018
 	contour:输入的点集
 	pt:坐标点
 	measureDist:是否计算坐标点到轮廓的距离
+	返回值+1、0、-1分别代表在轮廓内、轮廓上、轮廓外
 @author: Administrator
 """
 
