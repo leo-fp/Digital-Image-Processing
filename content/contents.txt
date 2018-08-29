@@ -18,3 +18,12 @@ erode_dilate.py 腐蚀&膨胀
 prewitt.py      prewitt边缘检测
 roberts.py      roberts边缘检测
 canny.py        Canny边缘检测
+LoG.py          高斯拉普拉斯边缘检测
+houghCircle.py  基于梯度的霍夫圆检测
+draw.py         查找、绘制轮廓
+findContours.py 外包、拟合轮廓
+length_area.py  轮廓的周长和面积
+pointTest.py    点和轮廓的关系
+convexityDefects.py 轮廓的凸包缺陷
+HTPLine.py      霍夫直线检测
+fft2.py         快速傅里叶变换检测
