@@ -2,9 +2,8 @@
 这是代码的索引，方便查找之用
 ########################################
 
-1_21		彩色图像的通道分离及合并 
-1_21.py
-CLAHE.py	限制对比度的直方图均衡化
+1_21		彩色图像的通道分离及合并
+LAHE.py	限制对比度的直方图均衡化
 firstOpenCV3.py 读入并显示图像
 gaussBlur.py	高斯平滑
 histogram.py	灰度直方图
@@ -27,3 +26,4 @@ pointTest.py    点和轮廓的关系
 convexityDefects.py 轮廓的凸包缺陷
 HTPLine.py      霍夫直线检测
 fft2.py         快速傅里叶变换检测
+spectralResidual.py 谱残差显著性检测
