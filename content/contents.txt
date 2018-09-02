@@ -27,3 +27,4 @@ convexityDefects.py 轮廓的凸包缺陷
 HTPLine.py      霍夫直线检测
 fft2.py         快速傅里叶变换检测
 spectralResidual.py 谱残差显著性检测
+camera.py       调用摄像头
