@@ -7,9 +7,6 @@ Created on Fri Aug 17 22:53:29 2018
 	a = (Omax - Omin) / (Imax - Imin)
 	b = Omax - (Omax - Omin) / (Imax - Imin) * Imin
 
-ps:可调用openCV的normalize函数，效果相似
-
-调用方式：dst = cv2.normalize(src,255,0,cv2.NOM_MINMAX,cv2.cv_8u)
 @author: Administrator
 """
 
